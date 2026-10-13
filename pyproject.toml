@@ -1,7 +1,7 @@
 [project]
 name = "tf2-classifier-fashion-mnist-custom-training-loop"
 version = "0.1.0"
-description = "Add your description here"
+description = "ResNet-style classifier for Fashion-MNIST built with custom layers, model subclassing and a custom training loop in TensorFlow 2."
 readme = "README.md"
 authors = [
     { name = "Diego Ramirez Rosas", email = "ramirezgrosas@gmail.com" }
